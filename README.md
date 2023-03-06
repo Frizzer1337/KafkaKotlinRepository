@@ -2,7 +2,7 @@
 Проект банковской системы/Banking system project
 
 ### Стек технологий/Used technologies:<br />
-* Java 17<br />
+* Kotlin<br />
 * Kafka(reactor),<br />
 * Reactor,<br />
 * MongoDB(reactivestreams),<br />
