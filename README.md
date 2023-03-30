@@ -7,8 +7,8 @@
 * Reactor,<br />
 * MongoDB(reactivestreams),<br />
 * Docker(for Kafka),<br />
-* Spring boot,<br />
-* Insomnia(from API requests)<br />
+* Spring boot(Reactive feign client),<br />
+* Insomnia(for API requests)<br />
 
 
 # Структура проекта<br />
